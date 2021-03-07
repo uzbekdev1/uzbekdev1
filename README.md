@@ -10,4 +10,4 @@ As well as my own projects, some of which are pinned below, I also contribute to
  
 ### Contact
 
-You can find me on Skype [live:elyor](skype:live:elyor?chat), Telegram [@uzbekdev](https://t.me/uzbekdev)
+You can find me on Skype [live:elyor](http://skype:live:elyor?chat), Telegram [@uzbekdev](https://t.me/uzbekdev)
