@@ -2,7 +2,7 @@
 
 My name is Elyor, I'm a full-stack developer from Tashkent.
 
-I've been working in software development since 2008. My experience is primarily with .NET and related technologies.
+I've been working in software development since 2008. My experience is primarily with .NET,NodeJs and related technologies.
   
 ### Projects
 
